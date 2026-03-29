@@ -67,12 +67,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diksha233456&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha233456&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diksha233456&theme=radical" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Diksha233456&theme=radical&hide_border=true" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=Diksha233456&theme=radical&hide_border=true" width="60%" />
 </p>
 ---
 

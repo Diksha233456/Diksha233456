@@ -59,7 +59,7 @@
 |--------|-------------|------|
 | 🚇 [namma-metro-app](https://github.com/Diksha233456/namma-metro-app-) | Metro app enhancement for smarter commutes | EJS |
 | 🤖 [ai-skill-gap-analyzer](https://github.com/Diksha233456/ai-skill-gap-analyzer) | Analyzes skill gaps using AI | JavaScript |
-| 🏥 [CodeAlpha_DiseasePrediction](https://github.com/Diksha233456/Disease_Prediction.git) | Disease prediction using ML models | Python |
+| 🏥 [diseasePrediction](https://github.com/Diksha233456/Disease_Prediction.git) | Disease prediction using ML models | Python |
 | 📚 [ai-study-planner](https://github.com/Diksha233456/AI-Study-Planner) | AI-powered personalized study planner | JavaScript |
 | 🎧 [emotion-recognition](https://github.com/Diksha233456/EmotionRecognition) | Emotion detection from speech using deep learning | Python |
 ---

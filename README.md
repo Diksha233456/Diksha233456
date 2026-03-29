@@ -66,14 +66,44 @@
 
 ## 🚀 My GitHub Journey
 
+<!-- Animated Intro -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha233456&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&center=true&vCenter=true&lines=Building+AI+Projects+🤖;Full+Stack+Developer+🌐;Turning+Ideas+into+Code+🚀;Always+Learning+✨" />
 </p>
 
 <br/>
 
+<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Diksha233456&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha233456&theme=tokyo-night&hide_border=true&area=true&custom_title=Diksha's%20Coding%20Journey%20🚀" width="95%"/>
+</p>
+
+<br/>
+
+<!-- Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diksha233456&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha233456&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+<br/>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Diksha233456&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+<br/>
+
+<!-- Developer Vibes -->
+<h3 align="center">⚡ Developer Vibes</h3>
+
+<p align="center">
+💻 Building impactful AI projects <br/>
+📊 Turning data into insights <br/>
+🚀 Exploring full-stack development <br/>
+🧠 Learning something new every day
 </p>
 ---
 

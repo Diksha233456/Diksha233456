@@ -64,18 +64,16 @@
 | 🎧 [emotion-recognition](https://github.com/Diksha233456/EmotionRecognition) | Emotion detection from speech using deep learning | Python |
 ---
 
-## 📈 GitHub Stats
+## 🚀 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diksha233456&theme=radical" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha233456&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
-<br/><br/>
+<br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diksha233456&theme=radical" width="40%" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diksha233456&theme=radical" width="40%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Diksha233456&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 ---
 

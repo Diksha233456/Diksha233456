@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2000&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Hi+Diksha+👋;Welcome+to+my+GitHub+🚀;Let's+build+something+awesome+✨" />
+</p>
+
 <h1 align="center">Hey there, I'm <span style="color:#f97316">Diksha</span> 👋✨</h1>
 
 <p align="center">
@@ -66,9 +70,9 @@
 
 ## 🚀 My GitHub Journey
 
-<!-- Animated Intro -->
+<!-- Animated Intro (Hi Diksha effect) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&center=true&vCenter=true&lines=Building+AI+Projects+🤖;Full+Stack+Developer+🌐;Turning+Ideas+into+Code+🚀;Always+Learning+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2000&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Hi+Diksha+👋;Welcome+to+my+GitHub+🚀;Building+AI+Projects+🤖;Full+Stack+Developer+🌐" />
 </p>
 
 <br/>
@@ -80,11 +84,11 @@
 
 <br/>
 
-<!-- Stats Cards -->
+<!-- Stable Stats Cards (FIXED - no more broken images) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diksha233456&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diksha233456&theme=tokyonight" width="45%" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha233456&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diksha233456&theme=tokyonight" width="45%" />
 </p>
 
 <br/>
@@ -105,7 +109,6 @@
 🚀 Exploring full-stack development <br/>
 🧠 Learning something new every day
 </p>
----
 
 ## 🌐 Let's Connect!
 

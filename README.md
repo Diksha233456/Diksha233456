@@ -67,7 +67,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diksha233456&theme=radical" width="85%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diksha233456&theme=radical" width="80%" />
 </p>
 
 <br/><br/>

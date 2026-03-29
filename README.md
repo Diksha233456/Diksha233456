@@ -67,14 +67,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diksha233456&theme=radical" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diksha233456&theme=radical" width="85%" />
 </p>
 
-<br/>
+<br/><br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diksha233456&theme=radical" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diksha233456&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diksha233456&theme=radical" width="40%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diksha233456&theme=radical" width="40%" />
 </p>
 ---
 

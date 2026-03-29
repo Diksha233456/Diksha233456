@@ -1,15 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2000&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+🚀;Let's+build+something+awesome+✨;AI+%2B+Full+Stack+Developer+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+🚀;Let's+build+something+awesome+✨" />
 </p>
 
-<h1 align="center">Hey there, I'm <span style="color:#f97316">Diksha</span> 👋✨</h1>
+<h1 align="center">
+  Hi, I'm Diksha 👋
+</h1>
 
 <p align="center">
-  🤖 AI/ML Explorer &nbsp;|&nbsp; 🌐 Full Stack Developer &nbsp;|&nbsp; 📊 Data Viz Enthusiast
+  🤖 AI/ML Explorer &nbsp;|&nbsp; 🌐 Full Stack Developer &nbsp;|&nbsp; 📊 Data Visualization Enthusiast
 </p>
 
 <p align="center">
-  <em>"Turning data into stories and ideas into code — one commit at a time 🚀"</em>
+  <em>Turning data into stories and ideas into code — one commit at a time 🚀</em>
 </p>
 
 ---

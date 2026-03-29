@@ -71,7 +71,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Diksha233456&theme=radical&hide_border=true" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diksha233456&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diksha233456&theme=radical" width="45%" />
 </p>
 ---
 

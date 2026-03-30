@@ -71,11 +71,18 @@ i'm the kind of person who gets genuinely excited about a clean dataset. i build
 ## 💭 what i'm up to lately
 
 <div align="center">
-
-| 🔨 currently building | 🧠 currently learning | 📊 currently obsessing over |
-|---|---|---|
-| MERN stack projects | advanced ML pipelines | dashboard spacing & design |
-
+<table>
+  <tr>
+    <td align="center"><b>🔨 currently building</b></td>
+    <td align="center"><b>🧠 currently learning</b></td>
+    <td align="center"><b>📊 currently obsessing over</b></td>
+  </tr>
+  <tr>
+    <td align="center">MERN stack projects</td>
+    <td align="center">advanced ML pipelines</td>
+    <td align="center">dashboard spacing & design</td>
+  </tr>
+</table>
 </div>
 
 

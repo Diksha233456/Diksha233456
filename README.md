@@ -78,11 +78,8 @@ i'm the kind of person who gets genuinely excited about a clean dataset. i build
 
 </div>
 
-<br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=building+things+i%27m+genuinely+proud+of;every+project+leads+to+three+more+ideas+%F0%9F%98…;growing+one+commit+at+a+time" alt="currently" />
-</div>
+> currently in that phase where every project leads to three more ideas 😅
 
 ---
 

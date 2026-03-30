@@ -70,11 +70,7 @@ i'm the kind of person who gets genuinely excited about a clean dataset. i build
 
 ## 💭 what i'm up to lately
 
-<p align="center">
-  <img src="https://img.shields.io/badge/building-MERN%20stack%20projects-A78BFA?style=for-the-badge&labelColor=3b1d8c" />
-  <img src="https://img.shields.io/badge/learning-Advanced%20ML%20pipelines-7C3AED?style=for-the-badge&labelColor=3b1d8c" />
-  <img src="https://img.shields.io/badge/obsessing%20over-Dashboard%20design-6D28D9?style=for-the-badge&labelColor=3b1d8c" />
-</p>
+<p align="center">🔨 &nbsp; deep in <b>MERN stack</b> architecture &nbsp;&nbsp;|&nbsp;&nbsp; 🧠 &nbsp; exploring <b>ML pipelines</b> &nbsp;&nbsp;|&nbsp;&nbsp; 📊 &nbsp; obsessing over <b>dashboard design</b></p>
 
 <p align="center"><em>currently in that phase where every project leads to three more ideas 😅</em></p>
 

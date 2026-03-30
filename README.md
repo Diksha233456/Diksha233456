@@ -68,38 +68,6 @@
 | 🎧 [emotion-recognition](https://github.com/Diksha233456/EmotionRecognition) | Emotion detection from speech using deep learning | Python |
 ---
 
-## 🚀 My GitHub Journey
-
-<!-- Animated Intro (Hi Diksha effect) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2000&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Hi+Diksha+👋;Welcome+to+my+GitHub+🚀;Building+AI+Projects+🤖;Full+Stack+Developer+🌐" />
-</p>
-
-<br/>
-
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha233456&theme=tokyo-night&hide_border=true&area=true&custom_title=Diksha's%20Coding%20Journey%20🚀" width="95%"/>
-</p>
-
-<br/>
-
-<!-- Stable Stats Cards (FIXED - no more broken images) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diksha233456&theme=tokyonight" width="45%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diksha233456&theme=tokyonight" width="45%" />
-</p>
-
-<br/>
-
-<!-- Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Diksha233456&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
-<br/>
-
 <!-- Developer Vibes -->
 <h3 align="center">⚡ Developer Vibes</h3>
 
@@ -126,9 +94,5 @@
   </a>
 </p>
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Diksha233456&color=f97316&style=flat-square&label=Profile+Views" />
-</p>
 
 <p align="center">✨ <em>Always learning, always building!</em> ✨</p>

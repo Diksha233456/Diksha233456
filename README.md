@@ -1,16 +1,14 @@
-<h1 align="center">hey, i'm diksha 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=AI+%2F+ML+Explorer;Full+Stack+Developer;Data+Viz+Enthusiast;Always+learning%2C+always+building" alt="Typing SVG" />
-</p>
+<h1>hey, i'm diksha 👋</h1>
 
-<p align="center">
-  🤖 AI/ML Explorer &nbsp;·&nbsp; 🌐 Full Stack Dev &nbsp;·&nbsp; 📊 Data Viz Nerd
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=AI+%2F+ML+Explorer;Full+Stack+Developer;Data+Viz+Enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="center">
-  <em>turning data into stories and ideas into code — one commit at a time 🚀</em>
-</p>
+<br/>
+
+*turning data into stories and ideas into code — one commit at a time*
+
+</div>
 
 ---
 
@@ -72,32 +70,38 @@ i'm the kind of person who gets genuinely excited about a clean dataset. i build
 
 ## 💭 what i'm up to lately
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=deep+in+MERN+stack+architecture;making+ML+models+actually+explainable;obsessing+over+dashboard+spacing+(yes%2C+really);growing+one+commit+at+a+time;building+things+i%27m+genuinely+proud+of" alt="What I'm up to" />
-</p>
+<div align="center">
 
-> currently in that phase where every project leads to three more ideas 😅
+| 🔨 currently building | 🧠 currently learning | 📊 currently obsessing over |
+|---|---|---|
+| MERN stack projects | advanced ML pipelines | dashboard spacing & design |
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=building+things+i%27m+genuinely+proud+of;every+project+leads+to+three+more+ideas+%F0%9F%98…;growing+one+commit+at+a+time" alt="currently" />
+</div>
 
 ---
 
 ## 🌐 let's connect!
 
-<p align="center">
-  i'm always happy to chat — about a project, a collab, or just data things 🙂
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Diksha233456">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/diksha-kambam-337868294">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:diksha.kambam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+i'm always happy to chat — about a project, a collab, or just data things 🙂
 
-<p align="center">✨ <em>always learning, always building — and genuinely loving it</em> ✨</p>
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diksha233456)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diksha-kambam-337868294)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diksha.kambam@gmail.com)
+
+<br/>
+
+✨ *always learning, always building — and genuinely loving it* ✨
+
+</div>

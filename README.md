@@ -1,11 +1,15 @@
 <h1 align="center">hey, i'm diksha 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=turning+data+into+stories+%F0%9F%93%8A;building+things+that+actually+work+%F0%9F%9A%80;ML+%2B+full+stack+%2B+too+much+coffee+%E2%98%95;one+commit+at+a+time+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=AI+%2F+ML+Explorer;Full+Stack+Developer;Data+Viz+Enthusiast;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
   🤖 AI/ML Explorer &nbsp;·&nbsp; 🌐 Full Stack Dev &nbsp;·&nbsp; 📊 Data Viz Nerd
+</p>
+
+<p align="center">
+  <em>turning data into stories and ideas into code — one commit at a time 🚀</em>
 </p>
 
 ---
@@ -68,7 +72,9 @@ i'm the kind of person who gets genuinely excited about a clean dataset. i build
 
 ## 💭 what i'm up to lately
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=A78BFA&width=600&lines=🔨+deep+in+MERN+stack+architecture;🧠+making+ML+models+actually+explainable;📊+obsessing+over+dashboard+spacing+(yes,+really);🌱+growing+one+commit+at+a+time;🎯+building+things+i'm+genuinely+proud+of" alt="What I'm up to" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=deep+in+MERN+stack+architecture;making+ML+models+actually+explainable;obsessing+over+dashboard+spacing+(yes%2C+really);growing+one+commit+at+a+time;building+things+i%27m+genuinely+proud+of" alt="What I'm up to" />
+</p>
 
 > currently in that phase where every project leads to three more ideas 😅
 

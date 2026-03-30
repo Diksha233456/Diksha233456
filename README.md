@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>hey, i'm diksha 👋</h1>
+<h1>hey, i'm Diksha 👋</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=AI+%2F+ML+Explorer;Full+Stack+Developer;Data+Viz+Enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 

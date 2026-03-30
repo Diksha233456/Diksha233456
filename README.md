@@ -70,23 +70,13 @@ i'm the kind of person who gets genuinely excited about a clean dataset. i build
 
 ## 💭 what i'm up to lately
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center"><b>🔨 currently building</b></td>
-    <td align="center"><b>🧠 currently learning</b></td>
-    <td align="center"><b>📊 currently obsessing over</b></td>
-  </tr>
-  <tr>
-    <td align="center">MERN stack projects</td>
-    <td align="center">advanced ML pipelines</td>
-    <td align="center">dashboard spacing & design</td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/building-MERN%20stack%20projects-A78BFA?style=for-the-badge&labelColor=3b1d8c" />
+  <img src="https://img.shields.io/badge/learning-Advanced%20ML%20pipelines-7C3AED?style=for-the-badge&labelColor=3b1d8c" />
+  <img src="https://img.shields.io/badge/obsessing%20over-Dashboard%20design-6D28D9?style=for-the-badge&labelColor=3b1d8c" />
+</p>
 
-
-> currently in that phase where every project leads to three more ideas 😅
+<p align="center"><em>currently in that phase where every project leads to three more ideas 😅</em></p>
 
 ---
 

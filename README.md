@@ -58,13 +58,42 @@ i'm the kind of person who gets genuinely excited about a clean dataset. i build
 
 ## 🚀 things i've built
 
-| project | what it does | tech |
-|--------|-------------|------|
-| 🚇 [namma-metro-app](https://github.com/Diksha233456/namma-metro-app-) | making bangalore's metro a little smarter | EJS |
-| 🤖 [ai-skill-gap-analyzer](https://github.com/Diksha233456/ai-skill-gap-analyzer) | finds the gap between where you are & where you need to be | JavaScript |
-| 🏥 [diseasePrediction](https://github.com/Diksha233456/Disease_Prediction.git) | ML-powered early disease detection | Python |
-| 📚 [ai-study-planner](https://github.com/Diksha233456/AI-Study-Planner) | because winging it isn't always a strategy | JavaScript |
-| 🎧 [emotion-recognition](https://github.com/Diksha233456/EmotionRecognition) | detecting how you feel just from your voice | Python |
+<table align="center">
+  <thead>
+    <tr>
+      <th>project</th>
+      <th>what it does</th>
+      <th>tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🚇 <a href="https://github.com/Diksha233456/namma-metro-app-">namma-metro-app</a></td>
+      <td>making bangalore's metro a little smarter</td>
+      <td>EJS</td>
+    </tr>
+    <tr>
+      <td>🤖 <a href="https://github.com/Diksha233456/ai-skill-gap-analyzer">ai-skill-gap-analyzer</a></td>
+      <td>finds the gap between where you are & where you need to be</td>
+      <td>JavaScript</td>
+    </tr>
+    <tr>
+      <td>🏥 <a href="https://github.com/Diksha233456/Disease_Prediction.git">diseasePrediction</a></td>
+      <td>ML-powered early disease detection</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td>📚 <a href="https://github.com/Diksha233456/AI-Study-Planner">ai-study-planner</a></td>
+      <td>because winging it isn't always a strategy</td>
+      <td>JavaScript</td>
+    </tr>
+    <tr>
+      <td>🎧 <a href="https://github.com/Diksha233456/EmotionRecognition">emotion-recognition</a></td>
+      <td>detecting how you feel just from your voice</td>
+      <td>Python</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 

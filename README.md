@@ -88,7 +88,7 @@ i'm the kind of person who gets genuinely excited about a clean dataset. i build
       <td>JavaScript</td>
     </tr>
     <tr>
-      <td>🎧 <a href="https://github.com/Diksha233456/EmotionRecognition">emotion-recognition</a></td>
+      <td>🎧 <a href="https://github.com/Diksha233456/Emotion-Recognition">emotion-recognition</a></td>
       <td>detecting how you feel just from your voice</td>
       <td>Python</td>
     </tr>

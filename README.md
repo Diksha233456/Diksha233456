@@ -68,7 +68,7 @@ i'm the kind of person who gets genuinely excited about a clean dataset. i build
   </thead>
   <tbody>
     <tr>
-      <td>🚇 <a href="https://github.com/Diksha233456/namma-metro-app-">namma-metro-app</a></td>
+      <td>🚇 <a href="https://github.com/Diksha233456/namma_metro-app-">namma-metro-app</a></td>
       <td>making bangalore's metro a little smarter</td>
       <td>EJS</td>
     </tr>

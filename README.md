@@ -52,12 +52,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" height="40" alt="AWS" />
-  <img width="12" />
+ <!-- AWS -->
+<img 
+  src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" 
+  height="34" 
+  alt="AWS" 
+/>
+
+<img width="12" />
+
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12" />
+<!-- GitHub -->
+<img src="https://cdn.simpleicons.org/github/6E40C9" height="40" alt="GitHub" />
+ <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="IoT / Arduino" />

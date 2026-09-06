@@ -81,19 +81,6 @@
 
 ---
 
-## 🌐 let's connect!
-
-<div align="center">
-
-<a href="https://github.com/Diksha233456"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" height="40" alt="GitHub" /></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/diksha-kambam-337868294"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="40" alt="LinkedIn" /></a>
-&nbsp;&nbsp;
-<a href="mailto:diksha.kambam@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/protonmail.svg" height="40" alt="Email" /></a>
-
-</div>
-
----
 
 ## 🙌 Thanks for Visiting!
 <div align="center">

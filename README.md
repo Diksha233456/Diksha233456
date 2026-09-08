@@ -19,7 +19,6 @@
 - 🌱 <b>Learning:</b> MERN stack & models that make sense 🧠  
 - 📊 <b>Data side:</b> Power BI & Tableau are my happy place  
 - 💬 <b>Ask me about:</b> React, Node.js, Machine Learning, Data Viz  
-
   </td>
   <td width="40%">
     <img alt="Coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />

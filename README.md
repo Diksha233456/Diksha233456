@@ -5,6 +5,7 @@
 
 
 
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Explorer;Full+Stack+Developer;Data+Viz+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </div>
